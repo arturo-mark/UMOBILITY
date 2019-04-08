@@ -736,12 +736,12 @@
         {
           "_inherit": "soundcloud1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "sound": "https://soundcloud.com/fuentesf198/los-chikos-del-maiz-los-pollos-hermanos",
             "autoplay": true,
-            "fullWidth": true,
-            "bgColor": "#fff"
+            "fullWidth": false,
+            "bgColor": "#3e7c2b"
           },
           "alias": "soundcloud",
           "_tags": [
